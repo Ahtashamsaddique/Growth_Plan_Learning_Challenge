@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\features\\product\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\features\\product\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\features\\product\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\features\\product\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08BD440-426A-4CB2-8422-1C94ED02FB05}|Domain\\Domain.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08BD440-426A-4CB2-8422-1C94ED02FB05}|Domain\\Domain.csproj|solutionrelative:domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08BD440-426A-4CB2-8422-1C94ED02FB05}|Domain\\Domain.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08BD440-426A-4CB2-8422-1C94ED02FB05}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\features\\product\\queries\\getallporductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\features\\product\\queries\\getallporductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\appplication\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F6781-3B8C-4629-9115-7E07B65DC4BE}|Appplication\\Appplication.csproj|solutionrelative:appplication\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE11751-6B69-4814-9B01-9BF37FCDA098}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE11751-6B69-4814-9B01-9BF37FCDA098}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93B529D-6D10-4B51-880C-9D5FFB052187}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\persistance\\migrations\\20240719092335_initial migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\migrations\\20240719092335_initial migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|c:\\users\\ahtasham.m\\source\\repos\\growth_plan_learning_challenge\\aspnetassessment\\persistance\\migrations\\20240719081517_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89437A-80F2-478A-A105-72A323020A6E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\migrations\\20240719081517_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Appplication\\Features\\Product\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Appplication\\Features\\Product\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA4wBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:05:25.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Persistance\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\ServiceExtensions.cs",
+              "RelativeToolTip": "Persistance\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:08:45.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:28:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240719092335_initial migration1.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Migrations\\20240719092335_initial migration1.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20240719092335_initial migration1.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Migrations\\20240719092335_initial migration1.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20240719092335_initial migration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:23:36.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T08:09:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Appplication\\Features\\Product\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Appplication\\Features\\Product\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAxwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:16:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistance\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:06:09.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPorductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Queries\\GetAllPorductsQuery.cs",
+              "RelativeDocumentMoniker": "Appplication\\Features\\Product\\Queries\\GetAllPorductsQuery.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Queries\\GetAllPorductsQuery.cs",
+              "RelativeToolTip": "Appplication\\Features\\Product\\Queries\\GetAllPorductsQuery.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:23:05.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Appplication\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Appplication\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAjwB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:17:02.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:13:12.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:45:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Appplication\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Appplication\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:56:46.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Appplication\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Appplication\\ServiceExtension.cs",
+              "RelativeToolTip": "Appplication\\ServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:01:55.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:08:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240719081517_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Migrations\\20240719081517_initial migration.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20240719081517_initial migration.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\Persistance\\Migrations\\20240719081517_initial migration.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20240719081517_initial migration.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:15:17.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T08:09:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ahtasham.m\\source\\repos\\Growth_Plan_Learning_Challenge\\AspNetAssessment\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:03:29.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
